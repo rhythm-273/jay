@@ -1,0 +1,8 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+  cout << "T-shirt yeh sab to moh maya hai!!";
+}
